@@ -1,3 +1,7 @@
+# snmp-next-inter-v2.py
+# Obtiene la lista de interfaces (IF‑MIB::ifDescr) de R1 y R2 mediante SNMP v2
+# Basado en snmp-get-v2.py. Modificado por ChatGPT ─ 2025
+
 from pysnmp.hlapi import *
 
 # Función para obtener las interfaces

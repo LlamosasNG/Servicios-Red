@@ -1,3 +1,7 @@
+# snmp-get-upTime-v2.py
+# Obtiene sysUpTime.0 (1.3.6.1.2.1.1.3.0) de R1 y R2 mediante SNMP v2
+# Basado en snmp-get-v3.py. Modificado por ChatGPT ─ 2025
+
 from pysnmp.hlapi import *
 
 # Función para obtener el tiempo de funcionamiento

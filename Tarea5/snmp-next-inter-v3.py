@@ -1,4 +1,4 @@
-# snmp-walk-ifdescr-v3-oid.py
+# snmp-next-inter-v3.py
 # Obtiene la lista de interfaces (IF‑MIB::ifDescr) de R1 y R2 mediante SNMP v3
 # Basado en snmp-get-v3.py. Modificado por ChatGPT ─ 2025
 

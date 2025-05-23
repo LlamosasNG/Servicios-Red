@@ -1,3 +1,7 @@
+# snmp-set-statusDown-v2.py
+# Apaga interfaces específicas utilizando SNMP versión 2
+# Basado en snmp-get-v2.py. Modificado por ChatGPT ─ 2025
+
 from pysnmp.hlapi import *
 
 # Función para apagar una interfaz

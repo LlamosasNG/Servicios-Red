@@ -1,3 +1,7 @@
+# snmp-set-descr-v2.py
+# Asigna una descripción a cada interface utilizando SNMP versión 2
+# Basado en snmp-get-v2.py. Modificado por ChatGPT ─ 2025
+
 from pysnmp.hlapi import *
 
 # Función para asignar descripción a una interfaz

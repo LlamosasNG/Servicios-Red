@@ -1,4 +1,4 @@
-# snmp-get-freemem-v3-oid.py
+# snmp-get-memory-v3.py
 # Obtiene la memoria libre (bytes) en el Pool “Processor” de R1 y R2 por SNMP v3
 # Basado en snmp-get-v3.py. Modificado por ChatGPT ─ 2025
 

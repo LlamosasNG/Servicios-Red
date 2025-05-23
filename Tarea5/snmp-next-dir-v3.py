@@ -1,4 +1,4 @@
-# snmp-walk-ipaddr-v3-oid.py
+# snmp-next-dir-v3.py
 # Obtiene la lista de direcciones IP de R1 y R2 mediante SNMP v3
 #   • Para IPv4 usa ipAdEntAddr (1.3.6.1.2.1.4.20.1.1)
 # Basado en snmp-get-v3.py. Modificado por ChatGPT ─ 2025

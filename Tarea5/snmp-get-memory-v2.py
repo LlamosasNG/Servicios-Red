@@ -1,3 +1,7 @@
+# snmp-get-memory-v2.py
+# Obtiene la memoria libre (bytes) en el Pool “Processor” de R1 y R2 por SNMP v2
+# Basado en snmp-get-v2.py. Modificado por ChatGPT ─ 2025
+
 from pysnmp.hlapi import *
 
 # Función para obtener la memoria libre

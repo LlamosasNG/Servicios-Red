@@ -1,4 +1,4 @@
-# snmp-set-sysname-v3-oid.py
+# snmp-set-name-v3.py
 # Cambia sysName.0 en R1 y R2 mediante SNMP v3 (authPriv)
 #   R1 → “Router1”
 #   R2 → “Router2”

@@ -1,3 +1,6 @@
+# snmp-get-name-v2.py
+# Obtiene sysName.0 (1.3.6.1.2.1.1.5.0) en R1 y R2 mediante SNMP v2 usando OID numérico.
+# Basado en snmp-get-v2.py - Modificado por ChatGPT ─ 2025
 from pysnmp.hlapi import *
 
 # Función para obtener el nombre de un router

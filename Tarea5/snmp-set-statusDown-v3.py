@@ -1,6 +1,6 @@
-# snmp-set-ifAdminStatus-v3.py
+# snmp-set-statusDown-v3.py
 # Apaga interfaces específicas utilizando SNMP versión 3
-# Generado por ChatGPT 2025
+# Basado en snmp-get-v3.py. Modificado por ChatGPT ─ 2025
 
 from pysnmp.hlapi import *
 

@@ -1,3 +1,9 @@
+# snmp-set-name-v2.py
+# Cambia sysName.0 en R1 y R2 mediante SNMP v2
+#   R1 → “R1”
+#   R2 → “R2”
+# Basado en snmp-get-v2.py. Modificado por ChatGPT ─ 2025
+
 from pysnmp.hlapi import *
 
 # Función para cambiar el nombre del router
